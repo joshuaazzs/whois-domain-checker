@@ -1,0 +1,1 @@
+def query(d): return {'domain': d, 'status': 'active'}
